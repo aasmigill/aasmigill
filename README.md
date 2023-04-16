@@ -25,7 +25,7 @@ Hi,I'm Aasmi Gill🙌, a Web Developer and ML Enthusiast. Apart from that I love
 **Talking about Personal Stuffs:**
 
 
-- 🌱 I’m currently learning Solidity.
+- 🌱 I’m currently learning Machine Learning.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
