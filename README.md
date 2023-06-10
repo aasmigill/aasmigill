@@ -1,5 +1,5 @@
-### Hello World 👋 It's [Aasmi!](https://aasmigill.github.io/MyPortfolio/)
-
+<!-- ### Hello World 👋 It's [Aasmi!](https://aasmigill.github.io/MyPortfolio/) -->
+ ### Hello World 👋 It's Aasmi!
 <br/>
 
 
