@@ -29,7 +29,7 @@ Hi,I'm Aasmi Gill🙌, a Web Developer and ML Enthusiast. Apart from that I love
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@aasmi.g10/10-best-practices-for-writing-cleaner-code-8782845b9a2e)
+- ⚡ Check out my recent [Blogs](https://medium.com/@aasmi.g10/)
 
 <!-- - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)-->
 
